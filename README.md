@@ -92,7 +92,9 @@ It includes:
 - Power BI Dashboard for interactive visualization. 
 - VLOOKUP for location correction
 
-├── data/               # Raw and cleaned datasets
-├── notebooks/          # Python scripts or notebooks (if any)
-├── dashboard/          # Dashboard file (Power BI, Tableau, etc.)
-├── README.md
+## Folder Structure  
+- Ace Superstore Retail Dataset(in).csv
+- Karunesh_Sehgal_Cleaned_dataset.xlsx
+- Karunesh_Sehgal_Data_Cleaning.ipynb
+- Readme.md
+- Store Locations(Store Locations).csv
