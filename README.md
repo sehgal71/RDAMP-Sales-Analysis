@@ -86,6 +86,32 @@ It includes:
 
 ![image](https://github.com/user-attachments/assets/42d3a9e2-bb71-46c9-9c89-6a3f9361085b)
 
+---
+
+## D) Recommendations
+
+1. **Optimize Inventory for Best-Selling Products**  
+   Maintain adequate stock levels and promotional activities for top-selling products such as *Portable Solar Generators*, *Electric Bikes*, and *Compact Dishwashers* to maximize revenue.
+
+2. **Prioritize High-Margin Product Categories**  
+   Focus on expanding and promoting products in *Food - Dressing (79%)*, *Salad Toppings (71%)*, and *Cereal/Breakfast Foods (69%)*, as they offer the highest profit margins.  
+   Consider bundling these products or offering volume discounts to further boost sales while preserving high profitability.
+
+3. **Enhance Omnichannel Strategy**  
+   While in-store sales slightly lead (51.55%), online sales are close behind (48.45%).  
+   Consider strategies to:  
+   - Increase cross-channel marketing.  
+   - Offer loyalty rewards or click-and-collect models to merge physical and digital channels.
+
+4. **Intensify Regional Marketing in High-Performing Areas**  
+   Focus expansion and targeted marketing in top-performing regions such as *East Midlands*, *Scotland*, and *London*.
+
+5. **Leverage Seasonal Sales Peaks**  
+   Schedule key promotions and product launches in *May* to capitalize on historically high monthly revenue.
+
+6. **Scale Operations Based on 2025 Growth Trends**  
+   Invest in operations, logistics, and digital infrastructure to support the strong upward revenue momentum seen in *March 2025*.
+
 ## Tools & Technologies  
 - Excel for initial data cleaning and transformation.
 - Python (pandas, numpy) for automation and data preparation. 
