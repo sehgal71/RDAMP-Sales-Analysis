@@ -99,7 +99,7 @@ It includes:
 - Readme.md
 - Store Locations(Store Locations).csv
 
-## 🗂️ File Descriptions
+## File Descriptions
 
 | File Name                             | Description                                                         |
 |---------------------------------------|---------------------------------------------------------------------|
