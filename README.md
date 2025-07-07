@@ -96,8 +96,8 @@ It includes:
    Maintain adequate stock levels and promotional activities for top-selling products such as *Portable Solar Generators*, *Electric Bikes*, and *Compact Dishwashers* to maximize revenue.
 
 2. **Prioritize High-Margin Product Categories**  
-   Focus on expanding and promoting products in *Food - Dressing (79%)*, *Salad Toppings (71%)*, and *Cereal/Breakfast Foods (69%)*, as they offer the highest profit margins.  
-   Consider bundling these products or offering volume discounts to further boost sales while preserving high profitability.
+   - Focus on expanding and promoting products in *Food - Dressing (79%)*, *Salad Toppings (71%)*, and *Cereal/Breakfast Foods (69%)*, as they offer the highest profit margins.  
+   - Consider bundling these products or offering volume discounts to further boost sales while preserving high profitability.
 
 3. **Enhance Omnichannel Strategy**  
    While in-store sales slightly lead (51.55%), online sales are close behind (48.45%).  
@@ -113,6 +113,8 @@ It includes:
 
 6. **Scale Operations Based on 2025 Growth Trends**  
    Invest in operations, logistics, and digital infrastructure to support the strong upward revenue momentum seen in *March 2025*.
+
+----
 
 ## Tools & Technologies  
 - Excel for initial data cleaning and transformation.
