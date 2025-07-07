@@ -35,28 +35,28 @@ Fields added to the dataset for further analysis:
 - Created a Pie Chart to understand the ratio in which sales occur (Online Vs In-Store)
 
 ### 2. Top 5 Best-Selling Products  
-The Top 5 Products are:
-  i. Portable Solar Generator  
-  ii. Portable Refrigerator Freezer  
-  iii. Electric Bike  
-  iv. Compact Dishwasher  
-  v. Digital Camera
+  The Top 5 Products are:  
+  1. Portable Solar Generator  
+  2. Portable Refrigerator Freezer  
+  3. Electric Bike  
+  4. Compact Dishwasher  
+  5. Digital Camera
 
 ### 3. Bottom 5 Underperforming Products  
-Bottom 5 Products are:  
-  i. Cinnamon Raisin Bagels (GBP 2.73)  
-  ii. Canned Black Beans  
-  iii. Baking Soda  
-  iv. Paprika  
-  v. Instant Mashed Potatoes (GBP 4.19)
+  Bottom 5 Products are:  
+  1. Cinnamon Raisin Bagels (GBP 2.73)  
+  2. Canned Black Beans  
+  3. Baking Soda  
+  4. Paprika  
+  5. Instant Mashed Potatoes (GBP 4.19)
 
 ### 4. Highest Margins by Product Category  
-Top Categories by Margin:  
-  i. Food - Dressing (79%)  
-  ii. Food - Salad Toppings (71%)  
-  iii. Food - Cereal (69%)  
-  iv. Food – Breakfast Foods (69%)  
-  v. Grooming (69%)
+  Top Categories by Margin:  
+  1. Food - Dressing (79%)  
+  2. Food - Salad Toppings (71%)  
+  3. Food - Cereal (69%)  
+  4. Food – Breakfast Foods (69%)  
+  5. Grooming (69%)
 
 ### 5. Top 5 Profitable Regions  
   The Regions are:  
