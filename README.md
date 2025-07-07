@@ -73,5 +73,14 @@ Fields added to the dataset for further analysis:
 ---
 
 ## C) Dashboard  
+- Interactive Power BI Dashboard was created to summarize and visualize the key metrics from the analysis.  
+It includes:
+- Sales Distribution Model Revenue Proportions  
+- Profit Margin by Category  
+- Year-over-year revenue comparisons (Monthly Trends) 
+- Profitable Regions
+- Top and Bottom 5 Products by Revenue
 
 ![image](https://github.com/user-attachments/assets/42d3a9e2-bb71-46c9-9c89-6a3f9361085b)
+
+
