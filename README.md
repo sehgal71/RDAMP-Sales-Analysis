@@ -3,6 +3,8 @@
 This project focuses on analyzing sales data for RDAMP to identify high-performing products, underperformers, and profitability trends across different regions and categories. 
 The goal is to clean the data, extract meaningful insights, and build an interactive dashboard for business decision-making.
 
+---
+
 ## A) Data Cleaning for Analysis
 
 ### 1. Uploaded CSV File & Saved as Excel  
