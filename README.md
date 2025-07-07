@@ -98,3 +98,13 @@ It includes:
 - Karunesh_Sehgal_Data_Cleaning.ipynb
 - Readme.md
 - Store Locations(Store Locations).csv
+
+## 🗂️ File Descriptions
+
+| File Name                             | Description                                                         |
+|---------------------------------------|---------------------------------------------------------------------|
+| Ace Superstore Retail Dataset(in).csv | Raw sales data containing transactions, product details, and sales figures. |
+| Store Locations(Store Locations).csv  | Dataset mapping postal codes to accurate regions, cities, and countries for location validation. |
+| Karunesh_Sehgal_Data_Cleaning.ipynb   | Python Jupyter notebook used for data cleaning, including filling missing categories and handling inconsistencies. |
+| Karunesh_Sehgal_Cleaned_dataset.xlsx  | Cleaned and processed sales dataset saved in Excel format, with added aggregated columns. |
+| README.md                             | Documentation file for the project. |
