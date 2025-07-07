@@ -92,13 +92,6 @@ It includes:
 - Power BI Dashboard for interactive visualization. 
 - VLOOKUP for location correction
 
-## Folder Structure  
-- Ace Superstore Retail Dataset(in).csv
-- Karunesh_Sehgal_Cleaned_dataset.xlsx
-- Karunesh_Sehgal_Data_Cleaning.ipynb
-- Readme.md
-- Store Locations(Store Locations).csv
-
 ## File Descriptions
 
 | File Name                             | Description                                                         |
@@ -108,3 +101,4 @@ It includes:
 | Karunesh_Sehgal_Data_Cleaning.ipynb   | Python Jupyter notebook used for data cleaning, including filling missing categories and handling inconsistencies. |
 | Karunesh_Sehgal_Cleaned_dataset.xlsx  | Cleaned and processed sales dataset saved in Excel format, with added aggregated columns. |
 | README.md                             | Documentation file for the project. |
+| Karunesh_Sehgal_Sales_Dashboard.pbix  | Interactive dashboard presenting key visualizations and insights derived from the analyzed sales data.  |
