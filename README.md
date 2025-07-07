@@ -86,9 +86,13 @@ It includes:
 
 ![image](https://github.com/user-attachments/assets/42d3a9e2-bb71-46c9-9c89-6a3f9361085b)
 
-## 🛠️ Tools & Technologies  
-- Excel for initial data cleaning and transformation  
-- Python (pandas, numpy) for automation and data prep  
-- Power BI / Tableau / Excel Dashboard for interactive visualization  
-- VLOOKUP for location correction  
+## Tools & Technologies  
+- Excel for initial data cleaning and transformation.
+- Python (pandas, numpy) for automation and data preparation. 
+- Power BI Dashboard for interactive visualization. 
+- VLOOKUP for location correction
 
+├── data/               # Raw and cleaned datasets
+├── notebooks/          # Python scripts or notebooks (if any)
+├── dashboard/          # Dashboard file (Power BI, Tableau, etc.)
+├── README.md
