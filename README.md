@@ -1,4 +1,7 @@
 # RDAMP-Sales-Analysis
+## Project Overview  
+This project focuses on analyzing sales data for RDAMP to identify high-performing products, underperformers, and profitability trends across different regions and categories. 
+The goal is to clean the data, extract meaningful insights, and build an interactive dashboard for business decision-making.
 
 ## A) Data Cleaning for Analysis
 
@@ -73,7 +76,7 @@ Fields added to the dataset for further analysis:
 ---
 
 ## C) Dashboard  
-- Interactive Power BI Dashboard was created to summarize and visualize the key metrics from the analysis.  
+Interactive Power BI Dashboard was created to summarize and visualize the key metrics from the analysis.  
 It includes:
 - Sales Distribution Model Revenue Proportions  
 - Profit Margin by Category  
@@ -83,4 +86,9 @@ It includes:
 
 ![image](https://github.com/user-attachments/assets/42d3a9e2-bb71-46c9-9c89-6a3f9361085b)
 
+## 🛠️ Tools & Technologies  
+- Excel for initial data cleaning and transformation  
+- Python (pandas, numpy) for automation and data prep  
+- Power BI / Tableau / Excel Dashboard for interactive visualization  
+- VLOOKUP for location correction  
 
