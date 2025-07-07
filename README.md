@@ -59,12 +59,12 @@ Top Categories by Margin:
   v. Grooming (69%)
 
 ### 5. Top 5 Profitable Regions  
-The Regions are:  
-  i. East Midlands (England)  
-  ii. Scotland  
-  iii. London (England)  
-  iv. Yorkshire & The Humber (England)  
-  v. Southwest England
+  The Regions are:  
+  1. East Midlands (England)  
+  2. Scotland  
+  3. London (England)  
+  4. Yorkshire & The Humber (England)  
+  5. Southwest England
 
 ### 6. Revenue Comparison  
 - The Line chart shows different lines indicating each year and the profit earned in each month.
