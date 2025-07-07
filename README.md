@@ -1,81 +1,72 @@
-# RDAMP Sales Analysis
+# RDAMP-Sales-Analysis
 
 ## A) Data Cleaning & Preparation
 
 ### 1. Uploaded CSV File & Saved as Excel  
-- Downloaded the raw `.csv` dataset.  
-- Converted it into `.xlsx` format to enable advanced calculations in Excel.
+- Downloaded the raw csv dataset and converted it into .xlsx file for advanced calculations.
 
-### 2. Incorrect Region, City, and Country  
-- Verified **Region**, **City**, and **Country** using the **Store Locations Dataset**.  
-- Used `VLOOKUP` based on the common **Postal Code** field to correct mismatches and omissions.  
-- Incorrect entries were **highlighted in red** for visibility.
+### 2. Incorrect Region, City and Country  
+The Region, City and Country were checked from the Store Locations Dataset ensure the data is consistent. There were omissions as well as incorrect assignments detected which was resolved using VLOOKUP from Store Location Dataset with the help of the Postal Code (Common Value in both sheets).  
+**The incorrect rows are highlighted with red colour.**
 
 ### 3. Negative Sales and Cost Price  
-- Negative values were identified as **returns** or **data errors**.  
-- All rows with **negative sales or cost price** were removed to ensure accurate reporting of business performance.
+Negative sales or cost prices usually happen because of errors or returns. These values don’t show real sales or costs and can confuse the analysis.  
+To keep the data clean and accurate, all rows with negative sales or costs are removed. This way, the report shows true business performance.
 
 ### 4. Missing Categories  
-- Sub-categories were used to infer missing categories using **Python mapping** techniques.  
-- Entries without a matching category were excluded for accuracy.
+Many products or sub-categories were repeated in the data with consistent categories. Python was used this to fill in missing categories by mapping each sub-category to its known category. The entries for which no category was found were excluded from the database to keep the results accurate.
 
 ### 5. New Aggregated Columns Created  
-The following calculated fields were added to the dataset:
-- `Discounted Price`: Final price after applying discount.
-- `Total Sales (Excluding Discount)`: Original sales amount.
-- `Total Sales (Including Discount)`: Sales after applying discount.
-- `Total Cost Price`: Total cost incurred.
-- `Total Revenue`: Actual earnings from sales post-discount.
-- `Profit Margin`: `(Revenue - Cost) / Revenue * 100`
+Fields added to the dataset for further analysis:
+- **Discounted Price**: The final price after applying the discount to the original sale price.
+- **Total Sales (Excluding Discount)**: Original sales amount before discount.
+- **Total Sales (Including Discount)**: Actual sales amount after discount is applied.
+- **Total Cost Price**: The total amount it cost to acquire or produce the items.
+- **Total Revenue**: The actual income earned from sales after applying discounts.
+- **Profit Margin**: The percentage of revenue that remains as profit after deducting costs.
 
 ---
 
-## B) Exploratory Data Analysis (EDA) & Visualization
+## B) EDA & Visualization
 
 ### 1. Sales Distribution across Order Mode  
-- A **Pie Chart** was created to show the proportion of **Online vs In-Store** sales.
+Created a Pie Chart to understand the ratio in which sales occur (Online Vs In-Store)
 
 ### 2. Top 5 Best-Selling Products  
-1. Portable Solar Generator  
-2. Portable Refrigerator Freezer  
-3. Electric Bike  
-4. Compact Dishwasher  
-5. Digital Camera
+The Top 5 Products are:
+i. Portable Solar Generator  
+ii. Portable Refrigerator Freezer  
+iii. Electric Bike  
+iv. Compact Dishwasher  
+v. Digital Camera
 
 ### 3. Bottom 5 Underperforming Products  
-1. Cinnamon Raisin Bagels (£2.73)  
-2. Canned Black Beans  
-3. Baking Soda  
-4. Paprika  
-5. Instant Mashed Potatoes (£4.19)
+Bottom 5 Products are:  
+i. Cinnamon Raisin Bagels (GBP 2.73)  
+ii. Canned Black Beans  
+iii. Baking Soda  
+iv. Paprika  
+v. Instant Mashed Potatoes (GBP 4.19)
 
 ### 4. Highest Margins by Product Category  
-Top 5 Categories by Profit Margin:
-1. Food - Dressing (79%)  
-2. Food - Salad Toppings (71%)  
-3. Food - Cereal (69%)  
-4. Food – Breakfast Foods (69%)  
-5. Grooming (69%)
+Top Categories by Margin:  
+i. Food - Dressing (79%)  
+ii. Food - Salad Toppings (71%)  
+iii. Food - Cereal (69%)  
+iv. Food – Breakfast Foods (69%)  
+v. Grooming (69%)
 
 ### 5. Top 5 Profitable Regions  
-1. East Midlands (England)  
-2. Scotland  
-3. London (England)  
-4. Yorkshire & The Humber (England)  
-5. Southwest England
+The Regions are:  
+i. East Midlands (England)  
+ii. Scotland  
+iii. London (England)  
+iv. Yorkshire & The Humber (England)  
+v. Southwest England
 
 ### 6. Revenue Comparison  
-- A **Line Chart** illustrates monthly profit trends by year.  
-- **May 2024** had the highest monthly revenue.  
-- **2025** shows a consistent **upward trend** in both revenue and profitability compared to 2024.
+The Line chart shows different lines indicating each year and the profit earned in each month. May 2024 shows highest revenue earned in a month, while the 2025 revenue has an upward trend and better profits than 2024.
 
 ---
 
-## C) Dashboard
-
-An interactive dashboard was created summarizing key metrics including:
-- Sales performance  
-- Profit margin analysis  
-- Regional profitability  
-- Product-wise performance  
-- Year-over-year revenue trends
+## C) Dashboard  
