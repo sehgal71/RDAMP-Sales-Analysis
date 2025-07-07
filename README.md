@@ -1,7 +1,6 @@
 # RDAMP-Sales-Analysis
 
-
-## A) Data Cleaning & Preparation
+## A) Data Cleaning for Analysis
 
 ### 1. Uploaded CSV File & Saved as Excel  
 - Downloaded the raw csv dataset and converted it into .xlsx file for advanced calculations.
@@ -74,3 +73,5 @@ v. Southwest England
 ---
 
 ## C) Dashboard  
+
+![image](https://github.com/user-attachments/assets/42d3a9e2-bb71-46c9-9c89-6a3f9361085b)
