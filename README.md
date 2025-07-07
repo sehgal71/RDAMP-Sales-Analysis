@@ -36,35 +36,35 @@ Fields added to the dataset for further analysis:
 
 ### 2. Top 5 Best-Selling Products  
 The Top 5 Products are:
-i. Portable Solar Generator  
-ii. Portable Refrigerator Freezer  
-iii. Electric Bike  
-iv. Compact Dishwasher  
-v. Digital Camera
+  i. Portable Solar Generator  
+  ii. Portable Refrigerator Freezer  
+  iii. Electric Bike  
+  iv. Compact Dishwasher  
+  v. Digital Camera
 
 ### 3. Bottom 5 Underperforming Products  
 Bottom 5 Products are:  
-i. Cinnamon Raisin Bagels (GBP 2.73)  
-ii. Canned Black Beans  
-iii. Baking Soda  
-iv. Paprika  
-v. Instant Mashed Potatoes (GBP 4.19)
+  i. Cinnamon Raisin Bagels (GBP 2.73)  
+  ii. Canned Black Beans  
+  iii. Baking Soda  
+  iv. Paprika  
+  v. Instant Mashed Potatoes (GBP 4.19)
 
 ### 4. Highest Margins by Product Category  
 Top Categories by Margin:  
-i. Food - Dressing (79%)  
-ii. Food - Salad Toppings (71%)  
-iii. Food - Cereal (69%)  
-iv. Food – Breakfast Foods (69%)  
-v. Grooming (69%)
+  i. Food - Dressing (79%)  
+  ii. Food - Salad Toppings (71%)  
+  iii. Food - Cereal (69%)  
+  iv. Food – Breakfast Foods (69%)  
+  v. Grooming (69%)
 
 ### 5. Top 5 Profitable Regions  
 The Regions are:  
-i. East Midlands (England)  
-ii. Scotland  
-iii. London (England)  
-iv. Yorkshire & The Humber (England)  
-v. Southwest England
+  i. East Midlands (England)  
+  ii. Scotland  
+  iii. London (England)  
+  iv. Yorkshire & The Humber (England)  
+  v. Southwest England
 
 ### 6. Revenue Comparison  
 - The Line chart shows different lines indicating each year and the profit earned in each month.
